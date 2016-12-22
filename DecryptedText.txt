@@ -1,0 +1,12 @@
+Cipherfile1: The Plaintext is "Rutgers celebrates the 250th anniversary in the year of 2016" & the Key is 639404CBD1A1BD2322B206C39140EC18
+Execution Time: 0.377 seconds
+
+Cipherfile2: The Plaintext is "It was the best of times, it was the worst of times" & the Key is F806274AC0B446C18725ABDCE56F1A72
+Execution Time: 17.059 seconds
+
+Cipherfile3: The Plaintext is "Double, double toil and trouble, fire burn and cauldron bubble" & the Key is 0AA4A910D451E069611D5571CCF032F2
+Execution Time: 6172.958 seconds ~= 2hrs 11 mins, after starting with 0x312C33F9 which took about 6 hours from 0x00000000 
+
+Cipherfile4: The Plaintext is "Once upon a midnight dreary, while I pondered weak and weary" & the Key is 9D0B180B5CD9DC074ACB0E7981575304
+Execution Time: 918346.615 seconds
+
