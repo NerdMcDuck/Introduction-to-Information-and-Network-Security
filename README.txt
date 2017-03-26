@@ -17,4 +17,4 @@ First two should take a couple seconds, last two will take significantly longer.
 Makefile
 
 Aside from running the code the make file has a "clean" command.
-"make clean" will delete the .class and .txt files. 
+"make clean" will delete the .class files and the DecryptedText.txt file. 
